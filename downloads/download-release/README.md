@@ -9,7 +9,7 @@
 | **Original File** | `download-release.php` |
 | **Size** | 15.83 MB |
 | **Status** | **Complete (100%)** |
-| **Password Protected** | **YES** |
+| **Password Protected** | **NO** |
 
 ---
 
@@ -25,7 +25,6 @@
 
 1. **Open** `download-release.zip` with WinRAR, 7-Zip, Ark, or any standard zip tool
 2. **Extract** the file
-3. Enter the password when prompted
 
 ---
 
