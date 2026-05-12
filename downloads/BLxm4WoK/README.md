@@ -9,7 +9,7 @@
 | **Original File** | `BLxm4WoK` |
 | **Total Size** | **33 parts** - **1452.60 MB** |
 | **Status** | **Complete (100%)** |
-| **Password Protected** | **YES** |
+| **Password Protected** | **NO** |
 
 ---
 
@@ -58,7 +58,6 @@
 1. **Download all parts** (`.zip`, `.z01`, `.z02`...)
 2. **Open** `BLxm4WoK.zip` with WinRAR, 7-Zip, Ark, or any standard zip tool
 3. **Extract** — all parts combine automatically
-4. Enter the password when prompted
 
 ---
 
